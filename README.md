@@ -14,5 +14,5 @@ This project is a Weather App built using **HTML**, **CSS**, and **JavaScript**,
 - HTML
 - CSS
 - JavaScript
-- OpenWeatherMap API *(or your API)*
+- OpenWeatherMap API
 
