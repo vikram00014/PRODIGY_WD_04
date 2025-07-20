@@ -16,7 +16,3 @@ This project is a Weather App built using **HTML**, **CSS**, and **JavaScript**,
 - JavaScript
 - OpenWeatherMap API *(or your API)*
 
-### 📸 Preview
-*(Add screenshot or link to demo if available)*
-
----
